@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "About me"
+    url: /AboutMe/
+  - title: "Research"
+    url: /Research/
+  - title: "Publications"
+    url: /Publications/
+  # - title: "External Link"
+  #   url: https://google.com
+  - title: "CV"
+    url: /assets/files/CV_Minoh.pdf
