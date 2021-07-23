@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Minoh Jeong"
 description              : "PhD student at University of Minnesota"
 url                      : "https://minosota.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/Minosota.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "Minosota/Minosota.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/Minoh.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/Msol202c.JPG" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
