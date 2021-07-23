@@ -15,9 +15,9 @@ I am widely interested in the fields of **estimation and detection theory, codin
 
 On this current research topic, I am particularly interested in:
 
-* finding and designing a low complexity decision algorithm that has a good performance;
-* characterizing the performance and complexity of optimal decision rule;
-* figuring out what is the optimal noise adding mechanism subject to certain differential privacy level in this ranking estimation problem.
+* finding and designing a low complexity decoding algorithm that has a good performance;
+* characterizing the performance and complexity of various decoders;
+* figuring out the optimal noise adding mechanism subject to certain differential privacy constraint in various system (particularly, in this ranking estimation problem).
 
 When I was a M.S. student, I studied mainly on **coding theory** and **machine learning**. Specifically, polar codes was the main research topic, and my objectives were twofold: 1. designing rate-compatible code motivated by its fixed code length of $2^n$; 2. designing decoding algorithm that has low complexity to increase its throughput.
 
