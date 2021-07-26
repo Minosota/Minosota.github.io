@@ -1,0 +1,39 @@
+I"/<h1 class="text-center" id="-phd-research-"><span style="font-family:rockwell; "> PhD  Research </span></h1>
+
+<h2 id="-1-data-permutation-recovery-"><span style="font-family:rockwell; "> 1. Data permutation recovery </span></h2>
+<p><img src="/assets/images/Hypo_region.png" alt="image" class="width-50" />
+<br /></p>
+
+<p>We studied on the problem of data permutation recovery. Specifically, the objective to be estimated is the permutation sequence (e.g., indices vector indicating the ordering) given the noisy observed data. We started by assuming Gaussian distribution for the input and the noise, which is illustrated in <a href="/assets/images/Hypo_framework.png" class="width-200">framework</a>.</p>
+
+<p>As a result, we fully characterized the linear decoding regime in terms of noise covariance matrix, and we proposed the <strong>necessary and sufficient condition</strong> for the linear decoder that performs optimally in the sense of error probability and has polynomial complexity in data length $n$. In particular, the optimal decoding (i.e., MAP decoding) has $n!$ complexity in data length $n$. The decoding consists of linear transformation and sorting function as illustrated in <a href="/assets/images/Hypo_decoder.png" class="width-100">figure</a>.
+For details, see “<a href="https://ieeexplore.ieee.org/document/9279328">Recovering Data Permutations From Noisy Observations: The Linear Regime</a>”.</p>
+
+<p>We are trying to extend this result to non-Gaussian distribution assumption, and studying estimation of some part of permutation sequence instead of full sequence.</p>
+
+<p><br /></p>
+<h2 id="-2-differential-privacy-"><span style="font-family:rockwell; "> 2. Differential privacy </span></h2>
+<p>Data privacy, particularly differential privacy (DP), is our on-going research topic. In particular, we are currently studying two sub-topics. First is <strong>to characterize and design the optimal noise adding mechanism</strong> satisfying various DP constraints (e.g., $\epsilon$-DP, $(\epsilon,\delta)$-DP, $\epsilon$-Rényi DP, $\epsilon$-mutual information DP, etc). Second is <strong>to formulate the problem of data permutation recovery with DP constraints</strong> and to study the optimal mechanism, decoder, and probability of error in that problem.</p>
+
+<p><br /></p>
+<h1 class="text-center" id="-ms-research-"><span style="font-family:rockwell; "> M.S.  Research </span></h1>
+
+<!-- ## <span style="font-family:rockwell; "> Polar codes </span> -->
+
+<h2 id="-1-rate-compatible-punctured-polar-rcpp-code-"><span style="font-family:rockwell; "> 1. Rate compatible punctured polar (RCPP) code </span></h2>
+<p><img src="/assets/images/RCPP_example.png" alt="image" class="width-200" />
+<br /></p>
+
+<p>The length of polar code is $2^k$ with $k\in\mathbb{N}$ due to its recursive construction based on $2\times 2$ Arıkan kernel. In order to for polar code to be rate-compatible, we studied and designed puncturing/shortening method of polar code for IR-HARQ scheme. Specifically, <strong>we proposed the RCPP code for IR-HARQ scheme</strong> and showed that it performs well in both low and high SNR regime.</p>
+
+<p>The simulation result of throughput for various IR-HARQ schemes (including our proposed algorithm) can be viewed in <a href="/assets/images/RCPP_plot.png" class="width-50">plot</a>. For details, see “<a href="https://ieeexplore.ieee.org/document/8408487">An Efficient Construction of Rate-Compatible Punctured Polar (RCPP) Codes Using Hierarchical Puncturing</a>”.</p>
+
+<p><br /></p>
+<h2 id="-2-efficient-decoding-of-polar-codes-"><span style="font-family:rockwell; "> 2. Efficient decoding of polar codes </span></h2>
+<p><img src="/assets/images/SCFano.png" alt="image" class="width-200" />
+<br /></p>
+
+<p>Again, focusing on increasing throughput of polar codes, we investigated various decoding algorithms such as list decoding, tree structured SC decoding (e.g., simplified SC, Fast SSC, SCFlip, etc.), message passing based decoding, deep learning based decoding (e.g., DNN decoding, RNN decoding), and sequential decoding. The goal of this research was <strong>to design low complexity and high performance decoding algorithm.</strong></p>
+
+<p>As a result, <strong>we proposed a sequential decoding algorithm</strong> by incorporating SC decoding with Fano sequential decoding, which we called <em>SC-Fano decoding</em>. The idea was came from the fact that decoding error of polar code usually happens by one bit error, which means if we correct the one bit error, the decoding would succeed. To this end, we applied the heuristic sequential decoding algorithm and showed that the proposed algorithm performs well. The simulation result can be viewed in <a href="/assets/images/SCFano_plot.png" class="width-50">plot</a>. For details, see “<a href="https://ieeexplore.ieee.org/abstract/document/8742591">SC-Fano Decoding for Polar Codes</a>”.</p>
+:ET

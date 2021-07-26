@@ -101,17 +101,18 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
+
 # Site Author
 author:
   name             : "Minoh Jeong"
   avatar           : "/assets/images/Minoh.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. Student at Univiersity of Minnesota"
   location         : "Minneapolis, MN"
-  email            : "jeong316@umn.edu"
+  email            : #"jeong316@umn.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "jeong316@umn.edu"
+      url: "mailto:jeong316@umn.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://mcardone.umn.edu/people/minoh-jeong"
@@ -121,15 +122,18 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/minoh-jeong-a149b6163/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-scholar"
+      url: "https://scholar.google.com/citations?user=O_jelIsAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/minohugeboy3/"
+
+
+
 
 # Site Footer
 footer:
