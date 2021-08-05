@@ -1,0 +1,111 @@
+I"�
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item--left">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/UMNproud.jpeg" alt="" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Welcome!</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Thank you for visiting my page! <br /><br /> My name is <strong>Minoh Jeong.</strong> I am currently a PhD student/research assistant in the group of Prof. <a href="https://mcardone.umn.edu">Martina Cardone</a> at University of Minnesota. Before joining Martina’s group, I received my MS degree and was a member in the group of Prof. <a href="https://sites.google.com/view/snlab">Songnam Hong</a> at Ajou University, South Korea.<br /><br /> I am widely interested in the fields of <strong><em>statistical estimation theory, differential privacy, coding theory, information theory, machine learning</em></strong> and <strong><em>algorithm</em></strong>. In particular, I am currently focusing on data permutation (data ranking) estimation problem motivated by privacy concern, and differential privacy.<br /><br /> On this current research topic, I am particularly interested in:<br />    * finding and designing a low complexity decoding algorithm that has a good performance; <br />    * characterizing the performance and complexity of various decoders; <br />    * figuring out the optimal noise adding mechanism subject to certain differential privacy constraint in various system (particularly, in this ranking estimation problem). <br /></p>
+
+            </div>
+          
+
+          
+            <p><a href="/AboutMe" class="btn btn--info">Read more</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/PlotH_3D.png" alt="Research" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Research</h2>
+          
+
+          
+
+          
+            <p><a href="/Research/" class="btn btn--info">Read more</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/tamara-gak-GWbIHT51VT4-unsplash.jpg" alt="Publications" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Publications</h2>
+          
+
+          
+
+          
+            <p><a href="/Publications/" class="btn btn--info">Read more</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/cv_teaser.jpg" alt="CV" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">CV</h2>
+          
+
+          
+
+          
+            <p><a href="/assets/files/CV_Minoh.pdf" class="btn btn--info">Read more</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+:ET
