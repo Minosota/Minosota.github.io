@@ -15,7 +15,7 @@ excerpt: >
 feature_row_left:
   - image_path: /assets/images/UMNproud.jpeg
     title: "Welcome!"
-    excerpt: "Thank you for visiting my page! <br /><br /> My name is **Minoh Jeong.** I am currently a PhD student/research assistant in the group of Prof. [Martina Cardone](https://mcardone.umn.edu) at University of Minnesota. Before joining Martina's group, I received my MS degree and was a member in the group of Prof. [Songnam Hong](https://sites.google.com/view/snlab) at Ajou University, South Korea.<br /><br />
+    excerpt: "Thank you for visiting my page!! <br /><br /> My name is **Minoh Jeong.** I am currently a PhD student/research assistant in the group of Prof. [Martina Cardone](https://mcardone.umn.edu) at University of Minnesota. Before joining Martina's group, I received my MS degree and was a member in the group of Prof. [Songnam Hong](https://sites.google.com/view/snlab) at Ajou University, South Korea.<br /><br />
     I am widely interested in the fields of ***statistical estimation theory, differential privacy, coding theory, information theory, machine learning*** and ***algorithm***. In particular, I am currently focusing on data permutation (data ranking) estimation problem motivated by privacy concern, and differential privacy.<br /><br />
     On this current research topic, I am particularly interested in:<br />
 	&nbsp;&nbsp; * figuring out the optimal noise-adding mechanism satisfying differential privacy constraints in various systems (particularly, in this ranking estimation problem); <br />
