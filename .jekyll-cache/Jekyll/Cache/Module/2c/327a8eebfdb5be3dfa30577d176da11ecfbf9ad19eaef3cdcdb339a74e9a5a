@@ -1,4 +1,4 @@
-I".
+I"Š
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -17,6 +17,8 @@
               <a href="/Research/">Research</a>
             </li><li class="masthead__menu-item">
               <a href="/Publications/">Publications</a>
+            </li><li class="masthead__menu-item">
+              <a href="/Video/">Video</a>
             </li><li class="masthead__menu-item">
               <a href="/assets/files/CV_Minoh.pdf">CV</a>
             </li></ul>

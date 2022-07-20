@@ -34,14 +34,14 @@ feature_row:
     url: "/Research/"
     btn_class: "btn--info"
     btn_label: "Read more"
-  - image_path: /assets/images/tamara-gak-GWbIHT51VT4-unsplash.jpg
+  - image_path: /assets/images/Publication_screenshot.png
     alt: "Publications"
     title: "Publications"
 #    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
     url: "/Publications/"
     btn_class: "btn--info"
     btn_label: "Read more"      
-  - image_path: /assets/images/cv_teaser.jpg
+  - image_path: /assets/images/CV_screenshot.png
     alt: "CV"
     title: "CV"
 #    excerpt: "I am PhD student at University of Minnesota"
