@@ -2,12 +2,12 @@
 main:
   - title: "About me"
     url: /AboutMe/
-  - title: "Research"
-    url: /Research/
+  # - title: "Research"
+  #   url: /Research/
   - title: "Publications"
     url: /Publications/
-  - title: "Video"
-    url: /Video/
+  - title: "Presentations"
+    url: /Presentations/
   # - title: "External Link"
   #   url: https://google.com
   - title: "CV"

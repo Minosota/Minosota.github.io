@@ -1,0 +1,17 @@
+I"<p><img src="/assets/images/bike.JPG" alt="image-left" class="align-left width-40" /> My name is <strong>Minoh Jeong.</strong> I am currently a PhD student/research assistant in the group of Prof. <a href="https://mcardone.umn.edu">Martina Cardone</a> at University of Minnesota. Before joining Prof. Martina’s group, I received my MS degree and was a member in the group of Prof. <a href="https://sites.google.com/view/snlab">Songnam Hong</a> at Ajou University, South Korea.</p>
+
+<p>I am widely interested in the fields of <strong><em>statistical signal processing, differential privacy, coding theory, information theory, machine learning</em></strong> and <strong><em>wireless communication</em></strong>. During my Ph.D. journey, I study the problems of 1) data permutation (data ranking) estimation under privacy constraints, 2) Bayesian lower bounds of minimum mean squared error, and 3) estimation of the optimal performance of multi-class classification using dataset.</p>
+
+<p>When I was an MS student, I mainly studied coding theory and machine learning. Specifically, polar codes was the main research topic, and my objectives were twofold: 1. designing rate-compatible polar codes motivated by the construction of fixed code length of $2^n$; 2. designing low-latency decoding algorithm to increase its throughput.</p>
+
+<p>For more details, please find the <a href="/Publications/">Publications</a>.</p>
+
+<p>In my free time, I like doing activities. I usually go to gym and practice calisthenics (my muscle-up is in the below video :).</p>
+
+<!-- Courtesy of embedresponsively.com //-->
+
+<div class="responsive-video-container">
+    <iframe src="https://www.youtube-nocookie.com/embed/gjVTiFMuSyo" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+  </div>
+
+:ET
