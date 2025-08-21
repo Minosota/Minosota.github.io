@@ -20,7 +20,7 @@ title                    : "Minoh Jeong"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Minoh Jeong"
-description              : "PhD student at University of Minnesota"
+description              : "Postdoctoral Research Fellow at University of Michigan"
 url                      : "https://minosota.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "Minosota/Minosota.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -90,7 +90,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.linkedin.com/in/minoh-jeong-a149b6163/"
+    - "https://www.linkedin.com/in/minohj/"
     - "https://www.instagram.com/minohugeboy3/"
 
 # Analytics
@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Minoh Jeong"
   avatar           : "/assets/images/Minoh.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. Student at Univiersity of Minnesota"
-  location         : "Minneapolis, MN"
-  email            : #"jeong316@umn.edu"
+  bio              : "Postdoctoral Research Fellow at University of Michigan"
+  location         : "Ann Arbor, MI"
+  email            : "minohj@umich.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -124,13 +124,13 @@ author:
       url: "https://www.linkedin.com/in/minoh-jeong-a149b6163/"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-scholar"
-      url: "https://scholar.google.com/citations?user=O_jelIsAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=aDXenMQAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/minohugeboy3/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://www.instagram.com/minohugeboy3/"
 
 
 
@@ -153,9 +153,9 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   # url:
 
 
 # Reading Files

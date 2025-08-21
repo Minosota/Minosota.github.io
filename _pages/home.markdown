@@ -15,12 +15,7 @@ excerpt: >
 feature_row_left:
   - image_path: /assets/images/UMNproud.jpeg
     title: "Welcome!"
-    excerpt: "Thank you for visiting my page! <br /><br /> My name is **Minoh Jeong.** I am currently a PhD student in the group of Prof. [Martina Cardone](https://mcardone.umn.edu) at the University of Minnesota. Before joining Prof. Martina's group, I received my MS degree and was a member of the group of Prof. [Songnam Hong](https://sites.google.com/view/snlab) at Ajou University, South Korea.<br /><br />
-    <!-- I am widely interested in the fields of ***statistical estimation theory, differential privacy, coding theory, information theory, machine learning*** and ***algorithm***. In particular, I am currently focusing on data permutation (data ranking) estimation problem motivated by privacy concern, and differential privacy.<br /><br />
-    On this current research topic, I am particularly interested in:<br />
-	&nbsp;&nbsp; * figuring out the optimal noise-adding mechanism satisfying differential privacy constraints in various systems (particularly, in this ranking estimation problem); <br />
-  &nbsp;&nbsp; * designing a low complexity decoding algorithm that has a good performance; <br />
-  &nbsp;&nbsp; * characterizing the performance and complexity of various decoders. <br /> -->
+    excerpt: "Hi, I'm Minoh Jeong, a postdoctoral researcher at the University of Michigan. <br /> My work sits at the intersection of machine learning, statistical signal processing, and information theory. Currently, I explore principled ways to turn messy, multimodal data into useful representations. I'm motivated by questions of robustness, uncertainty, and evaluation, and I enjoy building bridges between theory and practice. 
 "
     url: "/AboutMe"
     btn_label: "Read more"

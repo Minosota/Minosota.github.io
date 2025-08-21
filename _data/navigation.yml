@@ -6,8 +6,8 @@ main:
   #   url: /Research/
   - title: "Publications"
     url: /Publications/
-  - title: "Presentations"
-    url: /Presentations/
+  # - title: "Presentations"
+  #   url: /Presentations/
   # - title: "External Link"
   #   url: https://google.com
   - title: "CV"
